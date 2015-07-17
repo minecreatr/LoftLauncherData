@@ -1,7 +1,7 @@
 [
   {
     "currentVersion": {
-      "downloadURL": null,
+      "downloadURL": "something",
       "name": "1.0a",
       "id": 1,
       "type": "ALPHA"
@@ -9,7 +9,7 @@
     "name": "EpicCraft",
     "versions": [
       {
-        "downloadURL": null,
+        "downloadURL": "something",
         "name": "1.0a",
         "id": 1,
         "type": "ALPHA"
