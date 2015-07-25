@@ -1,7 +1,7 @@
 [
   {
     "currentVersion": {
-      "downloadURL": "something",
+      "downloadURL": "http://www.colorado.edu/conflict/peace/download/peace.zip",
       "name": "1.0a",
       "id": 1,
       "type": "ALPHA"
@@ -9,7 +9,7 @@
     "name": "EpicCraft",
     "versions": [
       {
-        "downloadURL": "something",
+        "downloadURL": "http://www.colorado.edu/conflict/peace/download/peace.zip",
         "name": "1.0a",
         "id": 1,
         "type": "ALPHA"
